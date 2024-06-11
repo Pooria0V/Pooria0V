@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pooria0V
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Machine learning libraries
+- 🌱 I learned Machine learning librarie
 
 
 <!---
