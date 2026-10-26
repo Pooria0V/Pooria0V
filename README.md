@@ -1,5 +1,8 @@
 # 💫 About Me:
-Software Engineering student focused on **AI Engineering**.<br><br>Currently building projects in AI while expanding my knowledge of Machine Learning, LLMs, and MLOps.<br><br>I'm also passionate about:<br>- ⛓️ Blockchain Development<br>- ⚡ Embedded Systems (ESP32 & Raspberry Pi Pico)<br>- ☁️ Cloud & DevOps<br><br>I believe the best way to learn is by building practical projects and solving real-world problems.
+Software Engineering student with hands-on experience in Docker, Linux, Git, CI/CD, monitoring, and backend development.
+Built production-oriented projects involving containerized services, automated CI/CD pipelines, and Prometheus/Grafana
+monitoring. Familiar with MLOps workflows and automation, with a strong interest in DevOps, infrastructure, and reliable
+software delivery. Seeking a DevOps internship to apply and deepen these skills in a professional environment.<br><br>I'm also passionate about:<br>- ⛓️ Blockchain Development<br>- ⚡ Embedded Systems (ESP32 & Raspberry Pi Pico)<br>- ☁️ Cloud & DevOps<br><br>I believe the best way to learn is by building practical projects and solving real-world problems.
 
 
 ## 🌐 Socials:
